@@ -26,12 +26,15 @@ Los datos analizados en este programa fueron extraídos de UniProt, una de las b
 Los datos exeden los 25mb por lo tanto para obtener datos puede realizar los siguientes pasos.
 Paso 1: Acceder a UniProt
 1.	Ve al sitio web de UniProt: https://www.uniprot.org.
+
 Paso 2: Filtrar por Bifidobacterium
+
 1.	En la barra de búsqueda principal, escribe Bifidobacterium y presiona Enter.
 2.	En la página de resultados, utiliza los filtros en el panel izquierdo:
 o	Organism: Selecciona "Bifidobacterium" (puede incluir varias especies).
 o	Opcional: Aplica otros filtros si deseas datos más específicos, como el tipo de revisión (Reviewed/Unreviewed).
 Paso 3: Seleccionar las columnas necesarias
+
 1.	Haz clic en el botón Columns ubicado en la parte superior derecha de la tabla de resultados.
 2.	En el menú desplegable, selecciona las columnas relevantes. Asegúrate de incluir:
 o	Entry Name (Nombre de entrada)
@@ -42,6 +45,7 @@ o	Length (Longitud de las proteínas en aminoácidos)
 o	Mass (Masa molecular en Daltons)
 o	Keywords (Palabras clave funcionales)
 Paso 4: Descargar el archivo
+
 1.	Una vez configuradas las columnas, haz clic en el botón Download.
 2.	Selecciona el formato TSV para la descarga.
 3.	Dependiendo de la cantidad de datos, UniProt generará un archivo que puede ser grande. Descarga y guarda el archivo en tu computadora.
