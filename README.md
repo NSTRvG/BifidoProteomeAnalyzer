@@ -24,6 +24,7 @@ Salidas:
 ________________________________________________________________________________________________________________________________________________
 Los datos analizados en este programa fueron extraídos de UniProt, una de las bases de datos más completas y confiables para información sobre proteínas. En particular, se seleccionaron datos relacionados con proteínas de diferentes especies del género Bifidobacterium, conocidas por su importancia en la microbiota intestinal y su contribución a la salud humana, especialmente en recién nacidos y bebés. Esta información incluye detalles como los nombres de las proteínas, genes asociados, longitudes en aminoácidos, masas moleculares en Daltons y palabras clave funcionales. El análisis de estos datos busca identificar patrones y características clave que podrían estar vinculadas a la función biológica de estas proteínas en el contexto del entorno intestinal y su posible relación con la nutrición y el metabolismo en etapas tempranas de la vida.
 Los datos exeden los 25mb por lo tanto para obtener datos puede realizar los siguientes pasos.
+
 Paso 1: Acceder a UniProt
 1.	Ve al sitio web de UniProt: https://www.uniprot.org.
 
